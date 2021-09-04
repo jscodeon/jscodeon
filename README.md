@@ -1,5 +1,5 @@
 # JS Code On members:
-<p align="center">
+<p align="center" height="180em">
   <a href="https://github.com/jscodeon" class="rich-diff-level-one">
     <img src="https://avatars.githubusercontent.com/u/13443750?v=4" alt="Antonio's image" height="180em">
     <img src="https://github-readme-stats.vercel.app/api?username=metantonio&show_icons=true&theme=dark" alt="Antonio's Stats" height="180em">
